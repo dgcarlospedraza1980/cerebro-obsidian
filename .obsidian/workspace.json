@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "d6c739467731d1af",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae47cfe23cf763b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a776b7e2a86db6b5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb99200cea8216b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "625f16941c640b2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "719d1c8fa0b90f9f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "10fe74d5a33ef0cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "66e9125d70617bab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c422326faa0ed58c",
+    "type": "split",
+    "children": [
+      {
+        "id": "57eef0f7d6e4cc2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "392fc4ca83338c46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "b2e21a629a653c7f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "4c7aec8cec0295f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "840dcec8b0bf148e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "8be267c5933aa703",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          },
+          {
+            "id": "cfa7e1080ae7d54f",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "48d5a67edf29908f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "githobs:Manage a github issue": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false
+    }
+  },
+  "active": "a776b7e2a86db6b5",
+  "lastOpenFiles": [
+    "Documentos/Bovedas de Obsidian/Boveda Obsidian 01",
+    "Documentos/Bovedas de Obsidian",
+    "Documentos",
+    "2026-09-14.md",
+    "Sin nombre",
+    "Giftilove/Bitácora/2026-09-25.md",
+    "Giftilove/Bitácora/2026-09-24.md",
+    "Giftilove/Bitácora/2026-09-20.md",
+    "Giftilove/Bitácora/2026-09-19.md",
+    "Giftilove/Bitácora/2026-09-18.md",
+    "Giftilove/Bitácora/2026-09-17.md",
+    "Giftilove/Bitácora/2026-09-15.md",
+    "Giftilove/00 Inicio.md",
+    "Giftilove/07 Negocio.md",
+    "Giftilove/14 Historial y versiones.md",
+    "Giftilove/13 Frontend.md",
+    "Giftilove/12 Edge functions.md",
+    "Giftilove/11 Base de datos.md",
+    "Giftilove/10 Manual de réplica.md",
+    "Giftilove/Bitácora/2026-09-12.md",
+    "Sin título.md",
+    "Giftilove/09 Llaves y secretos.md",
+    "Giftilove/08 Herramientas del ecosistema.md",
+    "Bienvenido.md",
+    "Giftilove/Bitácora/2026-09-14.md",
+    "Giftilove/Bitácora/2026-09-13.md",
+    "Giftilove/Bitácora",
+    "Giftilove/06 Cómo trabajar con Carlos.md",
+    "Giftilove/05 Cuentas y herramientas.md",
+    "Giftilove/04 Arquitectura.md",
+    "Giftilove",
+    "Sin título.canvas"
+  ]
+}
